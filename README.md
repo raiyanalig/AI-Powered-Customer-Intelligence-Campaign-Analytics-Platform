@@ -314,19 +314,23 @@ ai-retail-analytics/
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+<img width="2872" height="1312" alt="Screenshot 2026-09-26 224559" src="https://github.com/user-attachments/assets/0118a266-0abd-4143-8ea1-6914a35fbc98" />
+
 
 ### RFM Analysis
 
-![RFM Analysis](screenshots/rfm-analysis.png)
+<img width="2840" height="1338" alt="Screenshot 2026-09-26 224724" src="https://github.com/user-attachments/assets/dda5c4c1-5bc1-438a-b8b9-2043f7ca5452" />
+
 
 ### Campaign Analytics
 
-![Campaign Analytics](screenshots/campaign-analytics.png)
+<img width="2872" height="1366" alt="Screenshot 2026-09-26 230719" src="https://github.com/user-attachments/assets/9acffa14-28ed-43f2-b8b4-4bcdaec31ce2" />
+
 
 ### AI Analyst
 
-![AI Analyst](screenshots/ai-analyst.png)
+<img width="2832" height="1340" alt="Screenshot 2026-09-26 224651" src="https://github.com/user-attachments/assets/cad49190-06d0-4335-a13c-3f59af3e512d" />
+
 
 ## ⚙️ Local Setup
 
