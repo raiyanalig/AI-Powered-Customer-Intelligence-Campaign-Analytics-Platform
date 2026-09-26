@@ -7,8 +7,7 @@ An end-to-end, AI-powered retail analytics application that combines **SQL analy
 Built as a portfolio project for an **AI Native Data Analyst** role: it demonstrates
 practical SQL, business analysis and Gen AI skills in one deployable Streamlit app.
 
-> **Live demo:** _add your Streamlit Cloud URL here_
-> **Source:** _add your GitHub URL here_
+> **Live demo:** https://ai-powered-customer-intelligence-campaign-analytics-platform-h.streamlit.app/
 
 ---
 
